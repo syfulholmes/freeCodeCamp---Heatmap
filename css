@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+.title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+rect.bordered {
+  stroke: #000;
+  stroke-width: 1px;   
+}
+  
+text.mono {
+  font-size: 8pt;
+  font-family: Verdana;
+  fill: #000;
+}
+        
+text.axis-mth {
+  fill: #000;
+}
+
+
+        
+      
+
+      
